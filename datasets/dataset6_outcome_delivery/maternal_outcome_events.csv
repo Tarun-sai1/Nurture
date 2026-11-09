@@ -1,0 +1,201 @@
+﻿Maternal_Outcome_Event_ID,Outcome_ID,Patient_ID,Pregnancy_ID,Event_Type,Event_Date,Gestational_Week,Hypertensive_Complication,Postpartum_Haemorrhage,Maternal_Transfusion,Maternal_ICU_HDU,Clinical_Significance
+MOE-0000001,OUTC-000001,P0001,PRG0001,Delivery outcome,2027-05-08,38,No,No,No,No,Routine delivery outcome
+MOE-0000002,OUTC-000002,P0002,PRG0002,Delivery outcome,2027-05-09,40,No,No,No,No,Routine delivery outcome
+MOE-0000003,OUTC-000003,P0003,PRG0003,Delivery outcome,2026-03-22,40,No,No,No,No,Routine delivery outcome
+MOE-0000004,OUTC-000004,P0004,PRG0004,Delivery outcome,2027-05-04,38,No,No,No,No,Routine delivery outcome
+MOE-0000005,OUTC-000005,P0005,PRG0005,Delivery outcome,2027-02-03,38,No,No,No,No,Routine delivery outcome
+MOE-0000006,OUTC-000006,P0006,PRG0006,Delivery outcome,2027-02-10,38,No,No,No,No,Routine delivery outcome
+MOE-0000007,OUTC-000007,P0007,PRG0007,Delivery outcome,2025-12-26,40,No,No,No,Yes,Requires documented maternal complication follow-up
+MOE-0000008,OUTC-000008,P0008,PRG0008,Delivery outcome,2026-09-14,40,No,No,No,No,Routine delivery outcome
+MOE-0000009,OUTC-000009,P0009,PRG0009,Delivery outcome,2026-07-26,38,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000010,OUTC-000010,P0010,PRG0010,Delivery outcome,2026-10-20,36,No,No,No,No,Routine delivery outcome
+MOE-0000011,OUTC-000011,P0011,PRG0011,Delivery outcome,2025-10-19,40,No,No,No,No,Routine delivery outcome
+MOE-0000012,OUTC-000012,P0012,PRG0012,Delivery outcome,2026-05-19,40,No,No,No,No,Routine delivery outcome
+MOE-0000013,OUTC-000013,P0013,PRG0013,Delivery outcome,2027-05-24,38,No,No,No,No,Routine delivery outcome
+MOE-0000014,OUTC-000014,P0014,PRG0014,Delivery outcome,2027-02-01,39,No,No,No,No,Routine delivery outcome
+MOE-0000015,OUTC-000015,P0015,PRG0015,Delivery outcome,2026-06-26,39,No,No,No,No,Routine delivery outcome
+MOE-0000016,OUTC-000016,P0016,PRG0016,Delivery outcome,2027-04-02,40,No,No,No,No,Routine delivery outcome
+MOE-0000017,OUTC-000017,P0017,PRG0017,Delivery outcome,2026-03-30,40,No,No,No,No,Routine delivery outcome
+MOE-0000018,OUTC-000018,P0018,PRG0018,Delivery outcome,2026-09-20,38,No,No,No,No,Routine delivery outcome
+MOE-0000019,OUTC-000019,P0019,PRG0019,Delivery outcome,2026-06-05,38,No,No,No,No,Routine delivery outcome
+MOE-0000020,OUTC-000020,P0020,PRG0020,Delivery outcome,2027-05-02,35,No,No,No,No,Routine delivery outcome
+MOE-0000021,OUTC-000021,P0021,PRG0021,Delivery outcome,2027-05-09,38,No,No,No,No,Routine delivery outcome
+MOE-0000022,OUTC-000022,P0022,PRG0022,Delivery outcome,2026-07-10,39,No,No,No,No,Routine delivery outcome
+MOE-0000023,OUTC-000023,P0023,PRG0023,Delivery outcome,2027-02-24,35,No,No,No,No,Routine delivery outcome
+MOE-0000024,OUTC-000024,P0024,PRG0024,Delivery outcome,2026-02-16,40,No,No,No,No,Routine delivery outcome
+MOE-0000025,OUTC-000025,P0025,PRG0025,Delivery outcome,2026-08-16,40,No,No,No,No,Routine delivery outcome
+MOE-0000026,OUTC-000026,P0026,PRG0026,Delivery outcome,2026-01-01,40,No,No,No,No,Routine delivery outcome
+MOE-0000027,OUTC-000027,P0027,PRG0027,Delivery outcome,2026-01-04,38,No,No,No,No,Routine delivery outcome
+MOE-0000028,OUTC-000028,P0028,PRG0028,Delivery outcome,2026-02-19,39,No,No,No,No,Routine delivery outcome
+MOE-0000029,OUTC-000029,P0029,PRG0029,Delivery outcome,2026-01-26,39,No,No,No,No,Routine delivery outcome
+MOE-0000030,OUTC-000030,P0030,PRG0030,Delivery outcome,2027-03-26,39,No,No,No,No,Routine delivery outcome
+MOE-0000031,OUTC-000031,P0031,PRG0031,Delivery outcome,2027-04-21,39,No,No,No,No,Routine delivery outcome
+MOE-0000032,OUTC-000032,P0032,PRG0032,Delivery outcome,2027-05-15,40,No,No,No,No,Routine delivery outcome
+MOE-0000033,OUTC-000033,P0033,PRG0033,Delivery outcome,2026-02-19,40,No,No,No,No,Routine delivery outcome
+MOE-0000034,OUTC-000034,P0034,PRG0034,Delivery outcome,2026-12-11,35,No,No,No,No,Routine delivery outcome
+MOE-0000035,OUTC-000035,P0035,PRG0035,Delivery outcome,2026-08-17,38,No,No,No,No,Routine delivery outcome
+MOE-0000036,OUTC-000036,P0036,PRG0036,Delivery outcome,2027-03-21,39,No,No,No,No,Routine delivery outcome
+MOE-0000037,OUTC-000037,P0037,PRG0037,Delivery outcome,2026-04-28,35,No,No,No,No,Routine delivery outcome
+MOE-0000038,OUTC-000038,P0038,PRG0038,Delivery outcome,2027-02-25,35,No,No,No,No,Routine delivery outcome
+MOE-0000039,OUTC-000039,P0039,PRG0039,Delivery outcome,2026-03-11,36,No,No,No,No,Routine delivery outcome
+MOE-0000040,OUTC-000040,P0040,PRG0040,Delivery outcome,2026-12-05,40,No,No,No,No,Routine delivery outcome
+MOE-0000041,OUTC-000041,P0041,PRG0041,Delivery outcome,2026-12-18,36,No,No,No,No,Routine delivery outcome
+MOE-0000042,OUTC-000042,P0042,PRG0042,Delivery outcome,2026-10-27,39,No,No,No,No,Routine delivery outcome
+MOE-0000043,OUTC-000043,P0043,PRG0043,Delivery outcome,2026-07-11,38,No,No,No,No,Routine delivery outcome
+MOE-0000044,OUTC-000044,P0044,PRG0044,Delivery outcome,2026-12-03,35,No,No,No,No,Routine delivery outcome
+MOE-0000045,OUTC-000045,P0045,PRG0045,Delivery outcome,2026-11-24,39,No,Yes,No,No,Requires documented maternal complication follow-up
+MOE-0000046,OUTC-000046,P0046,PRG0046,Delivery outcome,2025-12-30,39,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000047,OUTC-000047,P0047,PRG0047,Delivery outcome,2026-04-17,38,No,No,No,No,Routine delivery outcome
+MOE-0000048,OUTC-000048,P0048,PRG0048,Delivery outcome,2026-08-16,39,No,No,No,No,Routine delivery outcome
+MOE-0000049,OUTC-000049,P0049,PRG0049,Delivery outcome,2026-08-21,38,No,No,No,No,Routine delivery outcome
+MOE-0000050,OUTC-000050,P0050,PRG0050,Delivery outcome,2026-05-02,35,No,Yes,No,No,Requires documented maternal complication follow-up
+MOE-0000051,OUTC-000051,P0051,PRG0051,Delivery outcome,2026-01-20,38,No,No,No,No,Routine delivery outcome
+MOE-0000052,OUTC-000052,P0052,PRG0052,Delivery outcome,2027-01-28,40,No,No,No,No,Routine delivery outcome
+MOE-0000053,OUTC-000053,P0053,PRG0053,Delivery outcome,2025-10-17,38,No,Yes,No,No,Requires documented maternal complication follow-up
+MOE-0000054,OUTC-000054,P0054,PRG0054,Delivery outcome,2027-02-27,39,No,Yes,No,No,Requires documented maternal complication follow-up
+MOE-0000055,OUTC-000055,P0055,PRG0055,Delivery outcome,2026-02-08,38,No,No,No,No,Routine delivery outcome
+MOE-0000056,OUTC-000056,P0056,PRG0056,Delivery outcome,2026-08-25,39,No,No,No,No,Routine delivery outcome
+MOE-0000057,OUTC-000057,P0057,PRG0057,Delivery outcome,2027-04-29,39,No,No,No,No,Routine delivery outcome
+MOE-0000058,OUTC-000058,P0058,PRG0058,Delivery outcome,2026-06-19,40,No,No,No,No,Routine delivery outcome
+MOE-0000059,OUTC-000059,P0059,PRG0059,Delivery outcome,2026-10-25,38,No,No,No,No,Routine delivery outcome
+MOE-0000060,OUTC-000060,P0060,PRG0060,Delivery outcome,2025-11-22,38,No,No,No,No,Routine delivery outcome
+MOE-0000061,OUTC-000061,P0061,PRG0061,Delivery outcome,2026-11-22,35,No,No,No,No,Routine delivery outcome
+MOE-0000062,OUTC-000062,P0062,PRG0062,Delivery outcome,2026-08-29,40,No,No,No,No,Routine delivery outcome
+MOE-0000063,OUTC-000063,P0063,PRG0063,Delivery outcome,2026-07-27,39,No,No,No,No,Routine delivery outcome
+MOE-0000064,OUTC-000064,P0064,PRG0064,Delivery outcome,2027-02-12,38,No,No,No,No,Routine delivery outcome
+MOE-0000065,OUTC-000065,P0065,PRG0065,Delivery outcome,2026-04-29,39,No,No,No,No,Routine delivery outcome
+MOE-0000066,OUTC-000066,P0066,PRG0066,Delivery outcome,2026-12-17,38,No,No,No,No,Routine delivery outcome
+MOE-0000067,OUTC-000067,P0067,PRG0067,Delivery outcome,2026-09-25,38,No,No,No,No,Routine delivery outcome
+MOE-0000068,OUTC-000068,P0068,PRG0068,Delivery outcome,2027-01-02,39,No,No,No,No,Routine delivery outcome
+MOE-0000069,OUTC-000069,P0069,PRG0069,Delivery outcome,2026-12-12,38,No,No,No,No,Routine delivery outcome
+MOE-0000070,OUTC-000070,P0070,PRG0070,Delivery outcome,2026-02-11,38,No,No,No,No,Routine delivery outcome
+MOE-0000071,OUTC-000071,P0071,PRG0071,Delivery outcome,2027-01-29,38,No,No,No,No,Routine delivery outcome
+MOE-0000072,OUTC-000072,P0072,PRG0072,Delivery outcome,2025-11-29,38,No,No,No,No,Routine delivery outcome
+MOE-0000073,OUTC-000073,P0073,PRG0073,Delivery outcome,2025-12-07,39,No,No,No,No,Routine delivery outcome
+MOE-0000074,OUTC-000074,P0074,PRG0074,Delivery outcome,2026-04-09,39,No,No,No,No,Routine delivery outcome
+MOE-0000075,OUTC-000075,P0075,PRG0075,Delivery outcome,2025-12-29,39,No,No,No,No,Routine delivery outcome
+MOE-0000076,OUTC-000076,P0076,PRG0076,Delivery outcome,2027-05-15,38,No,No,No,No,Routine delivery outcome
+MOE-0000077,OUTC-000077,P0077,PRG0077,Delivery outcome,2027-05-23,40,No,No,No,No,Routine delivery outcome
+MOE-0000078,OUTC-000078,P0078,PRG0078,Delivery outcome,2026-10-21,39,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000079,OUTC-000079,P0079,PRG0079,Delivery outcome,2025-11-08,40,No,No,No,No,Routine delivery outcome
+MOE-0000080,OUTC-000080,P0080,PRG0080,Delivery outcome,2026-09-06,40,No,No,No,No,Routine delivery outcome
+MOE-0000081,OUTC-000081,P0081,PRG0081,Delivery outcome,2027-01-03,39,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000082,OUTC-000082,P0082,PRG0082,Delivery outcome,2025-09-18,36,No,No,No,No,Routine delivery outcome
+MOE-0000083,OUTC-000083,P0083,PRG0083,Delivery outcome,2026-05-03,40,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000084,OUTC-000084,P0084,PRG0084,Delivery outcome,2026-11-21,38,No,No,No,No,Routine delivery outcome
+MOE-0000085,OUTC-000085,P0085,PRG0085,Delivery outcome,2026-02-10,40,No,No,No,No,Routine delivery outcome
+MOE-0000086,OUTC-000086,P0086,PRG0086,Delivery outcome,2025-11-26,40,No,No,No,No,Routine delivery outcome
+MOE-0000087,OUTC-000087,P0087,PRG0087,Delivery outcome,2026-01-06,40,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000088,OUTC-000088,P0088,PRG0088,Delivery outcome,2026-07-03,38,No,No,No,No,Routine delivery outcome
+MOE-0000089,OUTC-000089,P0089,PRG0089,Delivery outcome,2026-05-21,40,No,No,No,No,Routine delivery outcome
+MOE-0000090,OUTC-000090,P0090,PRG0090,Delivery outcome,2025-12-23,38,No,No,No,No,Routine delivery outcome
+MOE-0000091,OUTC-000091,P0091,PRG0091,Delivery outcome,2026-02-10,39,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000092,OUTC-000092,P0092,PRG0092,Delivery outcome,2026-08-20,32,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000093,OUTC-000093,P0093,PRG0093,Delivery outcome,2026-08-06,39,No,Yes,No,No,Requires documented maternal complication follow-up
+MOE-0000094,OUTC-000094,P0094,PRG0094,Delivery outcome,2027-02-14,40,No,No,No,No,Routine delivery outcome
+MOE-0000095,OUTC-000095,P0095,PRG0095,Delivery outcome,2026-04-21,38,No,No,No,No,Routine delivery outcome
+MOE-0000096,OUTC-000096,P0096,PRG0096,Delivery outcome,2027-04-27,40,No,No,No,No,Routine delivery outcome
+MOE-0000097,OUTC-000097,P0097,PRG0097,Delivery outcome,2027-01-06,40,No,No,No,No,Routine delivery outcome
+MOE-0000098,OUTC-000098,P0098,PRG0098,Delivery outcome,2025-12-07,39,No,No,No,No,Routine delivery outcome
+MOE-0000099,OUTC-000099,P0099,PRG0099,Delivery outcome,2026-12-22,40,No,No,No,No,Routine delivery outcome
+MOE-0000100,OUTC-000100,P0100,PRG0100,Delivery outcome,2027-02-08,39,No,No,No,No,Routine delivery outcome
+MOE-0000101,OUTC-000101,P0101,PRG0101,Delivery outcome,2026-01-29,39,No,Yes,No,No,Requires documented maternal complication follow-up
+MOE-0000102,OUTC-000102,P0102,PRG0102,Delivery outcome,2027-03-29,40,No,No,No,No,Routine delivery outcome
+MOE-0000103,OUTC-000103,P0103,PRG0103,Delivery outcome,2026-12-20,38,No,No,No,No,Routine delivery outcome
+MOE-0000104,OUTC-000104,P0104,PRG0104,Delivery outcome,2026-01-25,36,No,No,No,No,Routine delivery outcome
+MOE-0000105,OUTC-000105,P0105,PRG0105,Delivery outcome,2026-06-16,40,No,No,No,No,Routine delivery outcome
+MOE-0000106,OUTC-000106,P0106,PRG0106,Delivery outcome,2026-04-19,38,No,No,No,No,Routine delivery outcome
+MOE-0000107,OUTC-000107,P0107,PRG0107,Delivery outcome,2026-07-21,40,No,No,No,No,Routine delivery outcome
+MOE-0000108,OUTC-000108,P0108,PRG0108,Delivery outcome,2026-02-23,39,No,No,No,No,Routine delivery outcome
+MOE-0000109,OUTC-000109,P0109,PRG0109,Delivery outcome,2026-04-25,38,No,No,No,No,Routine delivery outcome
+MOE-0000110,OUTC-000110,P0110,PRG0110,Delivery outcome,2027-01-27,36,No,No,No,No,Routine delivery outcome
+MOE-0000111,OUTC-000111,P0111,PRG0111,Delivery outcome,2026-04-08,38,No,No,No,No,Routine delivery outcome
+MOE-0000112,OUTC-000112,P0112,PRG0112,Delivery outcome,2027-01-11,40,No,No,No,No,Routine delivery outcome
+MOE-0000113,OUTC-000113,P0113,PRG0113,Delivery outcome,2026-11-09,39,No,No,No,No,Routine delivery outcome
+MOE-0000114,OUTC-000114,P0114,PRG0114,Delivery outcome,2025-11-14,40,No,No,No,No,Routine delivery outcome
+MOE-0000115,OUTC-000115,P0115,PRG0115,Delivery outcome,2026-12-24,39,No,No,No,No,Routine delivery outcome
+MOE-0000116,OUTC-000116,P0116,PRG0116,Delivery outcome,2025-12-05,38,No,No,No,No,Routine delivery outcome
+MOE-0000117,OUTC-000117,P0117,PRG0117,Delivery outcome,2025-11-11,40,No,No,No,No,Routine delivery outcome
+MOE-0000118,OUTC-000118,P0118,PRG0118,Delivery outcome,2026-08-09,38,No,No,No,No,Routine delivery outcome
+MOE-0000119,OUTC-000119,P0119,PRG0119,Delivery outcome,2026-05-02,40,No,No,No,No,Routine delivery outcome
+MOE-0000120,OUTC-000120,P0120,PRG0120,Delivery outcome,2025-10-19,39,No,No,No,No,Routine delivery outcome
+MOE-0000121,OUTC-000121,P0121,PRG0121,Delivery outcome,2025-11-26,40,No,No,No,No,Routine delivery outcome
+MOE-0000122,OUTC-000122,P0122,PRG0122,Delivery outcome,2026-06-14,40,No,No,No,No,Routine delivery outcome
+MOE-0000123,OUTC-000123,P0123,PRG0123,Delivery outcome,2026-03-31,39,No,No,No,No,Routine delivery outcome
+MOE-0000124,OUTC-000124,P0124,PRG0124,Delivery outcome,2026-07-31,40,No,No,No,No,Routine delivery outcome
+MOE-0000125,OUTC-000125,P0125,PRG0125,Delivery outcome,2026-01-20,36,No,Yes,Yes,No,Requires documented maternal complication follow-up
+MOE-0000126,OUTC-000126,P0126,PRG0126,Delivery outcome,2027-02-13,40,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000127,OUTC-000127,P0127,PRG0127,Delivery outcome,2027-04-17,40,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000128,OUTC-000128,P0128,PRG0128,Delivery outcome,2026-04-19,40,No,No,No,No,Routine delivery outcome
+MOE-0000129,OUTC-000129,P0129,PRG0129,Delivery outcome,2026-11-27,35,No,No,No,No,Routine delivery outcome
+MOE-0000130,OUTC-000130,P0130,PRG0130,Delivery outcome,2026-06-18,39,No,No,No,No,Routine delivery outcome
+MOE-0000131,OUTC-000131,P0131,PRG0131,Delivery outcome,2026-08-31,38,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000132,OUTC-000132,P0132,PRG0132,Delivery outcome,2026-11-19,35,No,No,No,No,Routine delivery outcome
+MOE-0000133,OUTC-000133,P0133,PRG0133,Delivery outcome,2025-10-14,39,No,No,No,No,Routine delivery outcome
+MOE-0000134,OUTC-000134,P0134,PRG0134,Delivery outcome,2026-05-23,35,No,No,No,No,Routine delivery outcome
+MOE-0000135,OUTC-000135,P0135,PRG0135,Delivery outcome,2026-04-28,38,No,No,No,No,Routine delivery outcome
+MOE-0000136,OUTC-000136,P0136,PRG0136,Delivery outcome,2027-05-17,38,No,No,No,No,Routine delivery outcome
+MOE-0000137,OUTC-000137,P0137,PRG0137,Delivery outcome,2027-01-25,35,No,No,No,No,Routine delivery outcome
+MOE-0000138,OUTC-000138,P0138,PRG0138,Delivery outcome,2027-05-20,38,No,No,No,No,Routine delivery outcome
+MOE-0000139,OUTC-000139,P0139,PRG0139,Delivery outcome,2026-03-15,35,No,No,No,No,Routine delivery outcome
+MOE-0000140,OUTC-000140,P0140,PRG0140,Delivery outcome,2026-05-02,38,No,No,No,No,Routine delivery outcome
+MOE-0000141,OUTC-000141,P0141,PRG0141,Delivery outcome,2027-05-15,36,No,No,No,No,Routine delivery outcome
+MOE-0000142,OUTC-000142,P0142,PRG0142,Delivery outcome,2026-12-23,36,No,Yes,No,No,Requires documented maternal complication follow-up
+MOE-0000143,OUTC-000143,P0143,PRG0143,Delivery outcome,2027-01-28,40,No,No,No,No,Routine delivery outcome
+MOE-0000144,OUTC-000144,P0144,PRG0144,Delivery outcome,2026-01-02,40,No,No,No,No,Routine delivery outcome
+MOE-0000145,OUTC-000145,P0145,PRG0145,Delivery outcome,2026-10-26,40,No,No,No,No,Routine delivery outcome
+MOE-0000146,OUTC-000146,P0146,PRG0146,Delivery outcome,2027-05-13,38,No,No,No,No,Routine delivery outcome
+MOE-0000147,OUTC-000147,P0147,PRG0147,Delivery outcome,2025-11-13,35,No,No,No,No,Routine delivery outcome
+MOE-0000148,OUTC-000148,P0148,PRG0148,Delivery outcome,2027-06-07,40,No,No,No,No,Routine delivery outcome
+MOE-0000149,OUTC-000149,P0149,PRG0149,Delivery outcome,2026-01-29,40,No,No,No,No,Routine delivery outcome
+MOE-0000150,OUTC-000150,P0150,PRG0150,Delivery outcome,2026-03-08,34,No,No,No,No,Routine delivery outcome
+MOE-0000151,OUTC-000151,P0151,PRG0151,Delivery outcome,2026-06-11,39,No,No,No,No,Routine delivery outcome
+MOE-0000152,OUTC-000152,P0152,PRG0152,Delivery outcome,2026-09-01,40,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000153,OUTC-000153,P0153,PRG0153,Delivery outcome,2027-03-14,32,No,No,No,No,Routine delivery outcome
+MOE-0000154,OUTC-000154,P0154,PRG0154,Delivery outcome,2026-06-16,40,No,No,No,No,Routine delivery outcome
+MOE-0000155,OUTC-000155,P0155,PRG0155,Delivery outcome,2026-03-15,38,No,No,No,No,Routine delivery outcome
+MOE-0000156,OUTC-000156,P0156,PRG0156,Delivery outcome,2025-12-22,38,No,No,No,No,Routine delivery outcome
+MOE-0000157,OUTC-000157,P0157,PRG0157,Delivery outcome,2027-05-12,40,No,No,No,Yes,Requires documented maternal complication follow-up
+MOE-0000158,OUTC-000158,P0158,PRG0158,Delivery outcome,2026-01-10,38,No,No,No,No,Routine delivery outcome
+MOE-0000159,OUTC-000159,P0159,PRG0159,Delivery outcome,2025-11-25,40,No,No,No,No,Routine delivery outcome
+MOE-0000160,OUTC-000160,P0160,PRG0160,Delivery outcome,2026-12-01,39,No,No,No,No,Routine delivery outcome
+MOE-0000161,OUTC-000161,P0161,PRG0161,Delivery outcome,2026-11-05,40,No,No,No,No,Routine delivery outcome
+MOE-0000162,OUTC-000162,P0162,PRG0162,Delivery outcome,2026-09-01,38,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000163,OUTC-000163,P0163,PRG0163,Delivery outcome,2025-11-20,38,No,No,No,No,Routine delivery outcome
+MOE-0000164,OUTC-000164,P0164,PRG0164,Delivery outcome,2026-04-10,39,No,No,No,No,Routine delivery outcome
+MOE-0000165,OUTC-000165,P0165,PRG0165,Delivery outcome,2025-12-26,35,No,No,No,No,Routine delivery outcome
+MOE-0000166,OUTC-000166,P0166,PRG0166,Delivery outcome,2026-09-14,34,No,No,No,No,Routine delivery outcome
+MOE-0000167,OUTC-000167,P0167,PRG0167,Delivery outcome,2026-09-15,38,No,No,No,No,Routine delivery outcome
+MOE-0000168,OUTC-000168,P0168,PRG0168,Delivery outcome,2027-02-14,36,No,No,No,No,Routine delivery outcome
+MOE-0000169,OUTC-000169,P0169,PRG0169,Delivery outcome,2026-02-13,39,No,No,No,No,Routine delivery outcome
+MOE-0000170,OUTC-000170,P0170,PRG0170,Delivery outcome,2027-04-28,40,No,No,No,No,Routine delivery outcome
+MOE-0000171,OUTC-000171,P0171,PRG0171,Delivery outcome,2026-03-19,40,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000172,OUTC-000172,P0172,PRG0172,Delivery outcome,2025-12-07,38,No,No,No,No,Routine delivery outcome
+MOE-0000173,OUTC-000173,P0173,PRG0173,Delivery outcome,2026-01-03,34,No,No,No,No,Routine delivery outcome
+MOE-0000174,OUTC-000174,P0174,PRG0174,Delivery outcome,2025-11-21,38,No,No,No,No,Routine delivery outcome
+MOE-0000175,OUTC-000175,P0175,PRG0175,Delivery outcome,2025-11-12,40,No,No,No,No,Routine delivery outcome
+MOE-0000176,OUTC-000176,P0176,PRG0176,Delivery outcome,2025-12-05,39,No,No,No,No,Routine delivery outcome
+MOE-0000177,OUTC-000177,P0177,PRG0177,Delivery outcome,2026-08-14,40,No,No,No,No,Routine delivery outcome
+MOE-0000178,OUTC-000178,P0178,PRG0178,Delivery outcome,2026-01-13,40,No,No,No,No,Routine delivery outcome
+MOE-0000179,OUTC-000179,P0179,PRG0179,Delivery outcome,2025-09-19,34,No,No,No,No,Routine delivery outcome
+MOE-0000180,OUTC-000180,P0180,PRG0180,Delivery outcome,2026-01-20,39,No,No,No,No,Routine delivery outcome
+MOE-0000181,OUTC-000181,P0181,PRG0181,Delivery outcome,2026-12-18,39,No,No,No,No,Routine delivery outcome
+MOE-0000182,OUTC-000182,P0182,PRG0182,Delivery outcome,2026-02-24,39,No,No,No,No,Routine delivery outcome
+MOE-0000183,OUTC-000183,P0183,PRG0183,Delivery outcome,2026-03-26,40,No,No,No,No,Routine delivery outcome
+MOE-0000184,OUTC-000184,P0184,PRG0184,Delivery outcome,2026-09-04,38,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000185,OUTC-000185,P0185,PRG0185,Delivery outcome,2027-06-06,40,No,No,No,No,Routine delivery outcome
+MOE-0000186,OUTC-000186,P0186,PRG0186,Delivery outcome,2027-06-08,40,No,No,No,No,Routine delivery outcome
+MOE-0000187,OUTC-000187,P0187,PRG0187,Delivery outcome,2026-12-31,38,No,Yes,No,No,Requires documented maternal complication follow-up
+MOE-0000188,OUTC-000188,P0188,PRG0188,Delivery outcome,2027-05-31,39,No,No,No,No,Routine delivery outcome
+MOE-0000189,OUTC-000189,P0189,PRG0189,Delivery outcome,2026-05-16,34,No,No,No,No,Routine delivery outcome
+MOE-0000190,OUTC-000190,P0190,PRG0190,Delivery outcome,2026-08-22,35,No,No,No,No,Routine delivery outcome
+MOE-0000191,OUTC-000191,P0191,PRG0191,Delivery outcome,2027-02-18,40,No,No,No,No,Routine delivery outcome
+MOE-0000192,OUTC-000192,P0192,PRG0192,Delivery outcome,2026-09-27,38,No,No,No,No,Routine delivery outcome
+MOE-0000193,OUTC-000193,P0193,PRG0193,Delivery outcome,2026-02-27,40,No,No,No,No,Routine delivery outcome
+MOE-0000194,OUTC-000194,P0194,PRG0194,Delivery outcome,2026-05-20,40,No,No,No,No,Routine delivery outcome
+MOE-0000195,OUTC-000195,P0195,PRG0195,Delivery outcome,2025-12-11,36,Yes,No,No,No,Requires documented maternal complication follow-up
+MOE-0000196,OUTC-000196,P0196,PRG0196,Delivery outcome,2027-05-02,39,No,No,No,No,Routine delivery outcome
+MOE-0000197,OUTC-000197,P0197,PRG0197,Delivery outcome,2027-03-19,40,No,No,No,No,Routine delivery outcome
+MOE-0000198,OUTC-000198,P0198,PRG0198,Delivery outcome,2026-06-16,40,No,No,No,No,Routine delivery outcome
+MOE-0000199,OUTC-000199,P0199,PRG0199,Delivery outcome,2027-01-10,40,No,No,No,No,Routine delivery outcome
+MOE-0000200,OUTC-000200,P0200,PRG0200,Delivery outcome,2026-01-30,34,Yes,Yes,Yes,No,Requires documented maternal complication follow-up

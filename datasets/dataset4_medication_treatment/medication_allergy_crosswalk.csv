@@ -1,0 +1,13 @@
+Allergy_ID,Allergy_Class,Affected_Medications,Safety_Action,Class,Cross_Reactivity_Note
+ALG-001,Penicillin,Benzathine penicillin G; amoxicillin,Avoid suspected culprit; specialist assessment. Penicillin is essential for maternal syphilis and desensitization may be required.,Penicillins,Possible beta-lactam cross-reactivity
+ALG-002,Cephalosporin,Cephalexin,Assess reaction type and side-chain similarity.,Cephalosporins,Some penicillin cross-reactivity
+ALG-003,NSAID/Aspirin,Aspirin,Avoid in true aspirin hypersensitivity; respiratory phenotype requires special caution.,Non-selective NSAIDs,Potential cross-reactivity
+ALG-004,Beta-blocker,Labetalol,Allergy is not the main issue; asthma/bradycardia/heart block are important clinical cautions.,Beta-blockers,Class effects
+ALG-005,Macrolide,Azithromycin; erythromycin,Avoid culprit macrolide and assess class reaction.,Macrolides,Possible class cross-reactivity
+ALG-006,Nitroimidazole,Metronidazole,Avoid culprit and specialist review if true allergy.,Nitroimidazoles,Possible class cross-reactivity
+ALG-007,Benzimidazole,Albendazole,Review prior reaction to albendazole/mebendazole.,Benzimidazoles,Potential class cross-reactivity
+ALG-008,Insulin,Human insulin,Confirm product/excipient reaction; specialist assessment.,Insulin products,Product/excipient dependent
+ALG-009,Immunoglobulin,Anti-D immunoglobulin,Review prior immunoglobulin reaction and IgA-related history where relevant.,Human immunoglobulins,Product-specific
+ALG-010,Corticosteroid,Betamethasone,Review true corticosteroid allergy and excipients.,Corticosteroids,Possible class cross-reactivity
+ALG-011,Prostaglandin,Carboprost; misoprostol,Review prior prostaglandin reaction and respiratory history.,Prostaglandins,Class effects
+ALG-012,Paracetamol,Paracetamol,Avoid if true hypersensitivity or serious previous reaction.,Paracetamol,No major NSAID cross-reactivity

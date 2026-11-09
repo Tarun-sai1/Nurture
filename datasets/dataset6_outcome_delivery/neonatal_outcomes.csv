@@ -1,0 +1,201 @@
+﻿Neonatal_Outcome_ID,Outcome_ID,Patient_ID,Pregnancy_ID,Birth_Date,Gestational_Week,Sex,Birth_Weight_g,Birth_Weight_Category,Small_for_Gestational_Age_Flag,Large_for_Gestational_Age_Flag,Apgar_1_Min,Apgar_5_Min,Resuscitation_Required,NICU_Admission,Congenital_Anomaly_Flag,Neonatal_Status,Breastfeeding_Initiation_Status
+NEO-000001,OUTC-000001,P0001,PRG0001,2027-05-08,38,Female,3773,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000002,OUTC-000002,P0002,PRG0002,2027-05-09,40,Female,3170,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000003,OUTC-000003,P0003,PRG0003,2026-03-22,40,Male,3478,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000004,OUTC-000004,P0004,PRG0004,2027-05-04,38,Male,2605,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000005,OUTC-000005,P0005,PRG0005,2027-02-03,38,Male,2336,Low birth weight,Yes,No,8,9,No,Yes,No,Term/near-term low birth weight,Delayed/assisted
+NEO-000006,OUTC-000006,P0006,PRG0006,2027-02-10,38,Female,3583,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000007,OUTC-000007,P0007,PRG0007,2025-12-26,40,Female,3520,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000008,OUTC-000008,P0008,PRG0008,2026-09-14,40,Female,2820,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000009,OUTC-000009,P0009,PRG0009,2026-07-26,38,Female,3400,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000010,OUTC-000010,P0010,PRG0010,2026-10-20,36,Female,3102,Normal birth weight range,No,No,8,8,No,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000011,OUTC-000011,P0011,PRG0011,2025-10-19,40,Female,3172,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000012,OUTC-000012,P0012,PRG0012,2026-05-19,40,Female,3109,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000013,OUTC-000013,P0013,PRG0013,2027-05-24,38,Female,3308,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000014,OUTC-000014,P0014,PRG0014,2027-02-01,39,Male,2955,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000015,OUTC-000015,P0015,PRG0015,2026-06-26,39,Male,2545,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000016,OUTC-000016,P0016,PRG0016,2027-04-02,40,Female,3155,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000017,OUTC-000017,P0017,PRG0017,2026-03-30,40,Male,2795,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000018,OUTC-000018,P0018,PRG0018,2026-09-20,38,Male,2830,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000019,OUTC-000019,P0019,PRG0019,2026-06-05,38,Male,2621,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000020,OUTC-000020,P0020,PRG0020,2027-05-02,35,Female,2685,Normal birth weight range,No,No,7,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000021,OUTC-000021,P0021,PRG0021,2027-05-09,38,Male,3111,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000022,OUTC-000022,P0022,PRG0022,2026-07-10,39,Male,3021,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000023,OUTC-000023,P0023,PRG0023,2027-02-24,35,Male,3020,Normal birth weight range,No,No,8,10,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000024,OUTC-000024,P0024,PRG0024,2026-02-16,40,Female,4210,High birth weight,No,Yes,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000025,OUTC-000025,P0025,PRG0025,2026-08-16,40,Male,2413,Low birth weight,Yes,No,9,9,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000026,OUTC-000026,P0026,PRG0026,2026-01-01,40,Male,2485,Low birth weight,Yes,No,9,9,No,No,No,Term/near-term low birth weight,Not documented
+NEO-000027,OUTC-000027,P0027,PRG0027,2026-01-04,38,Male,3392,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000028,OUTC-000028,P0028,PRG0028,2026-02-19,39,Female,3673,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000029,OUTC-000029,P0029,PRG0029,2026-01-26,39,Female,2620,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000030,OUTC-000030,P0030,PRG0030,2027-03-26,39,Male,2866,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000031,OUTC-000031,P0031,PRG0031,2027-04-21,39,Male,3100,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000032,OUTC-000032,P0032,PRG0032,2027-05-15,40,Male,3881,Normal birth weight range,No,No,8,9,No,No,Yes,"Liveborn, clinically stable",Initiated before discharge
+NEO-000033,OUTC-000033,P0033,PRG0033,2026-02-19,40,Female,2830,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000034,OUTC-000034,P0034,PRG0034,2026-12-11,35,Female,2780,Normal birth weight range,No,No,7,7,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000035,OUTC-000035,P0035,PRG0035,2026-08-17,38,Male,2738,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000036,OUTC-000036,P0036,PRG0036,2027-03-21,39,Female,3394,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000037,OUTC-000037,P0037,PRG0037,2026-04-28,35,Male,1956,Low birth weight,Yes,No,9,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000038,OUTC-000038,P0038,PRG0038,2027-02-25,35,Male,2243,Low birth weight,No,No,8,10,No,No,Yes,Preterm live birth,Initiated before discharge
+NEO-000039,OUTC-000039,P0039,PRG0039,2026-03-11,36,Female,2206,Low birth weight,No,No,8,10,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000040,OUTC-000040,P0040,PRG0040,2026-12-05,40,Female,2820,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000041,OUTC-000041,P0041,PRG0041,2026-12-18,36,Male,2573,Normal birth weight range,No,No,9,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000042,OUTC-000042,P0042,PRG0042,2026-10-27,39,Male,2861,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000043,OUTC-000043,P0043,PRG0043,2026-07-11,38,Male,3032,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000044,OUTC-000044,P0044,PRG0044,2026-12-03,35,Male,2664,Normal birth weight range,No,No,9,10,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000045,OUTC-000045,P0045,PRG0045,2026-11-24,39,Female,3600,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000046,OUTC-000046,P0046,PRG0046,2025-12-30,39,Male,3020,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000047,OUTC-000047,P0047,PRG0047,2026-04-17,38,Female,4022,High birth weight,No,Yes,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000048,OUTC-000048,P0048,PRG0048,2026-08-16,39,Female,3186,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000049,OUTC-000049,P0049,PRG0049,2026-08-21,38,Female,3291,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000050,OUTC-000050,P0050,PRG0050,2026-05-02,35,Male,2920,Normal birth weight range,No,No,9,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000051,OUTC-000051,P0051,PRG0051,2026-01-20,38,Male,3323,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000052,OUTC-000052,P0052,PRG0052,2027-01-28,40,Male,2957,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000053,OUTC-000053,P0053,PRG0053,2025-10-17,38,Female,3611,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000054,OUTC-000054,P0054,PRG0054,2027-02-27,39,Male,3349,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000055,OUTC-000055,P0055,PRG0055,2026-02-08,38,Female,3523,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000056,OUTC-000056,P0056,PRG0056,2026-08-25,39,Male,2642,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000057,OUTC-000057,P0057,PRG0057,2027-04-29,39,Female,3371,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000058,OUTC-000058,P0058,PRG0058,2026-06-19,40,Female,3486,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000059,OUTC-000059,P0059,PRG0059,2026-10-25,38,Male,2912,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000060,OUTC-000060,P0060,PRG0060,2025-11-22,38,Male,2393,Low birth weight,Yes,No,8,9,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000061,OUTC-000061,P0061,PRG0061,2026-11-22,35,Male,3074,Normal birth weight range,No,No,6,7,Yes,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000062,OUTC-000062,P0062,PRG0062,2026-08-29,40,Female,3284,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000063,OUTC-000063,P0063,PRG0063,2026-07-27,39,Male,3446,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000064,OUTC-000064,P0064,PRG0064,2027-02-12,38,Male,2848,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000065,OUTC-000065,P0065,PRG0065,2026-04-29,39,Female,3285,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000066,OUTC-000066,P0066,PRG0066,2026-12-17,38,Male,3445,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000067,OUTC-000067,P0067,PRG0067,2026-09-25,38,Male,3143,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000068,OUTC-000068,P0068,PRG0068,2027-01-02,39,Female,3724,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000069,OUTC-000069,P0069,PRG0069,2026-12-12,38,Female,2939,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000070,OUTC-000070,P0070,PRG0070,2026-02-11,38,Female,3142,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000071,OUTC-000071,P0071,PRG0071,2027-01-29,38,Male,2655,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000072,OUTC-000072,P0072,PRG0072,2025-11-29,38,Male,3027,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000073,OUTC-000073,P0073,PRG0073,2025-12-07,39,Male,3110,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000074,OUTC-000074,P0074,PRG0074,2026-04-09,39,Female,3069,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000075,OUTC-000075,P0075,PRG0075,2025-12-29,39,Female,3136,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000076,OUTC-000076,P0076,PRG0076,2027-05-15,38,Female,3134,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000077,OUTC-000077,P0077,PRG0077,2027-05-23,40,Female,3115,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000078,OUTC-000078,P0078,PRG0078,2026-10-21,39,Male,3816,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000079,OUTC-000079,P0079,PRG0079,2025-11-08,40,Female,2983,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000080,OUTC-000080,P0080,PRG0080,2026-09-06,40,Female,3288,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000081,OUTC-000081,P0081,PRG0081,2027-01-03,39,Female,3647,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000082,OUTC-000082,P0082,PRG0082,2025-09-18,36,Female,2999,Normal birth weight range,No,No,8,10,No,Yes,Yes,Preterm live birth,Delayed/assisted
+NEO-000083,OUTC-000083,P0083,PRG0083,2026-05-03,40,Female,3022,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000084,OUTC-000084,P0084,PRG0084,2026-11-21,38,Male,3307,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000085,OUTC-000085,P0085,PRG0085,2026-02-10,40,Male,2396,Low birth weight,Yes,No,9,9,No,Yes,No,Term/near-term low birth weight,Delayed/assisted
+NEO-000086,OUTC-000086,P0086,PRG0086,2025-11-26,40,Male,3527,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000087,OUTC-000087,P0087,PRG0087,2026-01-06,40,Female,2756,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000088,OUTC-000088,P0088,PRG0088,2026-07-03,38,Female,2997,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000089,OUTC-000089,P0089,PRG0089,2026-05-21,40,Male,3259,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000090,OUTC-000090,P0090,PRG0090,2025-12-23,38,Female,2003,Low birth weight,Yes,No,8,8,No,Yes,No,Term/near-term low birth weight,Delayed/assisted
+NEO-000091,OUTC-000091,P0091,PRG0091,2026-02-10,39,Female,3409,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000092,OUTC-000092,P0092,PRG0092,2026-08-20,32,Female,1869,Low birth weight,Yes,No,7,8,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000093,OUTC-000093,P0093,PRG0093,2026-08-06,39,Male,3308,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000094,OUTC-000094,P0094,PRG0094,2027-02-14,40,Male,3697,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000095,OUTC-000095,P0095,PRG0095,2026-04-21,38,Male,3391,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000096,OUTC-000096,P0096,PRG0096,2027-04-27,40,Female,3752,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000097,OUTC-000097,P0097,PRG0097,2027-01-06,40,Male,3493,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000098,OUTC-000098,P0098,PRG0098,2025-12-07,39,Female,4376,High birth weight,No,Yes,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000099,OUTC-000099,P0099,PRG0099,2026-12-22,40,Female,3176,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000100,OUTC-000100,P0100,PRG0100,2027-02-08,39,Male,2684,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000101,OUTC-000101,P0101,PRG0101,2026-01-29,39,Male,2795,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000102,OUTC-000102,P0102,PRG0102,2027-03-29,40,Male,3045,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000103,OUTC-000103,P0103,PRG0103,2026-12-20,38,Male,3038,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000104,OUTC-000104,P0104,PRG0104,2026-01-25,36,Female,2827,Normal birth weight range,No,No,7,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000105,OUTC-000105,P0105,PRG0105,2026-06-16,40,Male,2735,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000106,OUTC-000106,P0106,PRG0106,2026-04-19,38,Female,2940,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000107,OUTC-000107,P0107,PRG0107,2026-07-21,40,Female,2692,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000108,OUTC-000108,P0108,PRG0108,2026-02-23,39,Male,3042,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000109,OUTC-000109,P0109,PRG0109,2026-04-25,38,Female,2972,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000110,OUTC-000110,P0110,PRG0110,2027-01-27,36,Female,2455,Low birth weight,No,No,9,9,No,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000111,OUTC-000111,P0111,PRG0111,2026-04-08,38,Female,2471,Low birth weight,Yes,No,8,9,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000112,OUTC-000112,P0112,PRG0112,2027-01-11,40,Female,2778,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000113,OUTC-000113,P0113,PRG0113,2026-11-09,39,Female,3486,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000114,OUTC-000114,P0114,PRG0114,2025-11-14,40,Female,2896,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000115,OUTC-000115,P0115,PRG0115,2026-12-24,39,Female,3263,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000116,OUTC-000116,P0116,PRG0116,2025-12-05,38,Male,2493,Low birth weight,Yes,No,8,9,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000117,OUTC-000117,P0117,PRG0117,2025-11-11,40,Female,3029,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000118,OUTC-000118,P0118,PRG0118,2026-08-09,38,Female,3185,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000119,OUTC-000119,P0119,PRG0119,2026-05-02,40,Female,3199,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000120,OUTC-000120,P0120,PRG0120,2025-10-19,39,Female,2211,Low birth weight,Yes,No,8,8,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000121,OUTC-000121,P0121,PRG0121,2025-11-26,40,Male,2834,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000122,OUTC-000122,P0122,PRG0122,2026-06-14,40,Female,3663,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000123,OUTC-000123,P0123,PRG0123,2026-03-31,39,Male,2945,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000124,OUTC-000124,P0124,PRG0124,2026-07-31,40,Male,2922,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000125,OUTC-000125,P0125,PRG0125,2026-01-20,36,Male,2577,Normal birth weight range,No,No,6,8,No,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000126,OUTC-000126,P0126,PRG0126,2027-02-13,40,Male,3215,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000127,OUTC-000127,P0127,PRG0127,2027-04-17,40,Male,2637,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000128,OUTC-000128,P0128,PRG0128,2026-04-19,40,Male,3172,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000129,OUTC-000129,P0129,PRG0129,2026-11-27,35,Male,2290,Low birth weight,No,No,8,9,No,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000130,OUTC-000130,P0130,PRG0130,2026-06-18,39,Male,3904,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000131,OUTC-000131,P0131,PRG0131,2026-08-31,38,Female,3323,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000132,OUTC-000132,P0132,PRG0132,2026-11-19,35,Male,2714,Normal birth weight range,No,No,9,10,No,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000133,OUTC-000133,P0133,PRG0133,2025-10-14,39,Male,2792,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000134,OUTC-000134,P0134,PRG0134,2026-05-23,35,Male,2539,Normal birth weight range,No,No,9,10,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000135,OUTC-000135,P0135,PRG0135,2026-04-28,38,Male,3401,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000136,OUTC-000136,P0136,PRG0136,2027-05-17,38,Male,2434,Low birth weight,Yes,No,7,8,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000137,OUTC-000137,P0137,PRG0137,2027-01-25,35,Female,2157,Low birth weight,Yes,No,9,10,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000138,OUTC-000138,P0138,PRG0138,2027-05-20,38,Female,3360,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000139,OUTC-000139,P0139,PRG0139,2026-03-15,35,Female,3032,Normal birth weight range,No,No,7,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000140,OUTC-000140,P0140,PRG0140,2026-05-02,38,Female,3244,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000141,OUTC-000141,P0141,PRG0141,2027-05-15,36,Female,2838,Normal birth weight range,No,No,8,8,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000142,OUTC-000142,P0142,PRG0142,2026-12-23,36,Female,2798,Normal birth weight range,No,No,8,9,No,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000143,OUTC-000143,P0143,PRG0143,2027-01-28,40,Female,2773,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000144,OUTC-000144,P0144,PRG0144,2026-01-02,40,Female,3162,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000145,OUTC-000145,P0145,PRG0145,2026-10-26,40,Male,3006,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000146,OUTC-000146,P0146,PRG0146,2027-05-13,38,Male,3104,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000147,OUTC-000147,P0147,PRG0147,2025-11-13,35,Male,2671,Normal birth weight range,No,No,8,8,No,No,Yes,Preterm live birth,Initiated before discharge
+NEO-000148,OUTC-000148,P0148,PRG0148,2027-06-07,40,Female,2748,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000149,OUTC-000149,P0149,PRG0149,2026-01-29,40,Male,3233,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000150,OUTC-000150,P0150,PRG0150,2026-03-08,34,Male,2377,Low birth weight,No,No,6,7,Yes,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000151,OUTC-000151,P0151,PRG0151,2026-06-11,39,Female,3083,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000152,OUTC-000152,P0152,PRG0152,2026-09-01,40,Male,3352,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000153,OUTC-000153,P0153,PRG0153,2027-03-14,32,Male,1931,Low birth weight,Yes,No,7,10,Yes,No,No,Preterm live birth,Initiated before discharge
+NEO-000154,OUTC-000154,P0154,PRG0154,2026-06-16,40,Female,1781,Low birth weight,Yes,No,9,10,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000155,OUTC-000155,P0155,PRG0155,2026-03-15,38,Male,2993,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000156,OUTC-000156,P0156,PRG0156,2025-12-22,38,Male,2766,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000157,OUTC-000157,P0157,PRG0157,2027-05-12,40,Female,3082,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000158,OUTC-000158,P0158,PRG0158,2026-01-10,38,Female,3198,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000159,OUTC-000159,P0159,PRG0159,2025-11-25,40,Female,2800,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000160,OUTC-000160,P0160,PRG0160,2026-12-01,39,Male,2745,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000161,OUTC-000161,P0161,PRG0161,2026-11-05,40,Male,2911,Normal birth weight range,No,No,9,9,No,No,Yes,"Liveborn, clinically stable",Initiated before discharge
+NEO-000162,OUTC-000162,P0162,PRG0162,2026-09-01,38,Female,2766,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000163,OUTC-000163,P0163,PRG0163,2025-11-20,38,Male,3594,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000164,OUTC-000164,P0164,PRG0164,2026-04-10,39,Female,3795,Normal birth weight range,No,No,7,8,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000165,OUTC-000165,P0165,PRG0165,2025-12-26,35,Male,2421,Low birth weight,No,No,8,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000166,OUTC-000166,P0166,PRG0166,2026-09-14,34,Male,2909,Normal birth weight range,No,No,9,10,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000167,OUTC-000167,P0167,PRG0167,2026-09-15,38,Female,3410,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000168,OUTC-000168,P0168,PRG0168,2027-02-14,36,Male,2301,Low birth weight,No,No,9,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000169,OUTC-000169,P0169,PRG0169,2026-02-13,39,Female,3650,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000170,OUTC-000170,P0170,PRG0170,2027-04-28,40,Female,2866,Normal birth weight range,No,No,9,10,No,No,Yes,"Liveborn, clinically stable",Initiated before discharge
+NEO-000171,OUTC-000171,P0171,PRG0171,2026-03-19,40,Female,2716,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000172,OUTC-000172,P0172,PRG0172,2025-12-07,38,Male,2874,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000173,OUTC-000173,P0173,PRG0173,2026-01-03,34,Female,1997,Low birth weight,Yes,No,6,7,Yes,No,No,Preterm live birth,Initiated before discharge
+NEO-000174,OUTC-000174,P0174,PRG0174,2025-11-21,38,Female,2675,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000175,OUTC-000175,P0175,PRG0175,2025-11-12,40,Male,2999,Normal birth weight range,No,No,8,9,No,Yes,No,"Liveborn, clinically stable",Delayed/assisted
+NEO-000176,OUTC-000176,P0176,PRG0176,2025-12-05,39,Female,3264,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000177,OUTC-000177,P0177,PRG0177,2026-08-14,40,Male,2680,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000178,OUTC-000178,P0178,PRG0178,2026-01-13,40,Female,2841,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000179,OUTC-000179,P0179,PRG0179,2025-09-19,34,Female,2555,Normal birth weight range,No,No,8,8,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000180,OUTC-000180,P0180,PRG0180,2026-01-20,39,Male,3586,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000181,OUTC-000181,P0181,PRG0181,2026-12-18,39,Female,3345,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000182,OUTC-000182,P0182,PRG0182,2026-02-24,39,Female,2445,Low birth weight,Yes,No,9,9,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000183,OUTC-000183,P0183,PRG0183,2026-03-26,40,Male,2691,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000184,OUTC-000184,P0184,PRG0184,2026-09-04,38,Male,2344,Low birth weight,Yes,No,8,8,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000185,OUTC-000185,P0185,PRG0185,2027-06-06,40,Male,3046,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000186,OUTC-000186,P0186,PRG0186,2027-06-08,40,Female,2962,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000187,OUTC-000187,P0187,PRG0187,2026-12-31,38,Male,3593,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000188,OUTC-000188,P0188,PRG0188,2027-05-31,39,Male,2889,Normal birth weight range,No,No,9,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000189,OUTC-000189,P0189,PRG0189,2026-05-16,34,Female,1836,Low birth weight,Yes,No,6,7,No,Yes,No,Preterm live birth,Delayed/assisted
+NEO-000190,OUTC-000190,P0190,PRG0190,2026-08-22,35,Female,2742,Normal birth weight range,No,No,9,9,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000191,OUTC-000191,P0191,PRG0191,2027-02-18,40,Male,3768,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000192,OUTC-000192,P0192,PRG0192,2026-09-27,38,Female,2897,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000193,OUTC-000193,P0193,PRG0193,2026-02-27,40,Male,3125,Normal birth weight range,No,No,8,9,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000194,OUTC-000194,P0194,PRG0194,2026-05-20,40,Male,3050,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000195,OUTC-000195,P0195,PRG0195,2025-12-11,36,Female,2654,Normal birth weight range,No,No,9,10,No,No,No,Preterm live birth,Initiated before discharge
+NEO-000196,OUTC-000196,P0196,PRG0196,2027-05-02,39,Male,3041,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000197,OUTC-000197,P0197,PRG0197,2027-03-19,40,Male,2474,Low birth weight,Yes,No,8,9,No,No,No,Term/near-term low birth weight,Initiated before discharge
+NEO-000198,OUTC-000198,P0198,PRG0198,2026-06-16,40,Female,3178,Normal birth weight range,No,No,8,8,No,No,No,"Liveborn, clinically stable",Initiated before discharge
+NEO-000199,OUTC-000199,P0199,PRG0199,2027-01-10,40,Female,3207,Normal birth weight range,No,No,9,10,No,No,No,"Liveborn, clinically stable",Not documented
+NEO-000200,OUTC-000200,P0200,PRG0200,2026-01-30,34,Male,2321,Low birth weight,No,No,7,7,No,No,No,Preterm live birth,Initiated before discharge

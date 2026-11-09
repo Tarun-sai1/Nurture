@@ -1,0 +1,28 @@
+Visit-level feature table: 2048 visits x 54 columns
+
+=== Preterm birth (< 37 weeks) ===
+rows=1879  pregnancies=200  positive pregnancies=35
+  Logistic Regression  ROC-AUC=0.498  PR-AUC=0.199
+  Random Forest        ROC-AUC=0.682  PR-AUC=0.334
+  Gradient Boosting    ROC-AUC=0.627  PR-AUC=0.274
+  -> selected: Random Forest
+  one prediction per pregnancy (<= 28 wk, n=200): ROC-AUC=0.674 accuracy=0.63 (baseline 0.82) balanced acc=0.65 sens=0.69 spec=0.62
+
+=== NICU admission of the newborn ===
+rows=2048  pregnancies=200  positive pregnancies=14
+  Logistic Regression  ROC-AUC=0.549  PR-AUC=0.071
+  Random Forest        ROC-AUC=0.706  PR-AUC=0.129
+  Gradient Boosting    ROC-AUC=0.665  PR-AUC=0.181
+  -> selected: Random Forest
+  one prediction per pregnancy (<= 28 wk, n=200): ROC-AUC=0.723 accuracy=0.71 (baseline 0.93) balanced acc=0.71 sens=0.71 spec=0.72
+
+=== Gestational diabetes (predicted before the 24–28 wk glucose test) ===
+rows=859  pregnancies=200  positive pregnancies=55
+  Logistic Regression  ROC-AUC=0.765  PR-AUC=0.632
+  Random Forest        ROC-AUC=0.734  PR-AUC=0.633
+  Gradient Boosting    ROC-AUC=0.700  PR-AUC=0.613
+  -> selected: Logistic Regression
+  one prediction per pregnancy (<= 24 wk, n=200): ROC-AUC=0.748 accuracy=0.81 (baseline 0.72) balanced acc=0.74 sens=0.60 spec=0.88
+
+Preterm ceiling: a model that knew the generator's TRUE probabilities would score ROC-AUC 0.696. Ours: 0.682
+GDM ceiling: 0.801. Ours: 0.765

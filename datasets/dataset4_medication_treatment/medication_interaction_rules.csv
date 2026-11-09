@@ -1,0 +1,14 @@
+Interaction_ID,Drug_A,Drug_B_or_Group,Mechanism_or_Concern,Recommended_Data_Action
+INT-001,Iron,Calcium,Reduced iron absorption,Separate administration; follow clinician/pharmacy timing.
+INT-002,Iron,Levothyroxine,Reduced levothyroxine absorption,Separate administration.
+INT-003,Calcium,Levothyroxine,Reduced levothyroxine absorption,Separate administration.
+INT-004,Methyldopa,Iron,Reduced methyldopa absorption,Separate administration.
+INT-005,Aspirin,Anticoagulants,Increased bleeding risk,Specialist review.
+INT-006,Aspirin,NSAIDs,Increased GI/bleeding risk,Avoid unnecessary combination.
+INT-007,Labetalol,Insulin,Beta-blockade may mask hypoglycaemia symptoms,Increase glucose monitoring awareness.
+INT-008,Metformin,Iodinated contrast,Renal/lactic acidosis safety consideration in selected patients,Follow current contrast/renal protocol.
+INT-009,Metronidazole,Alcohol,Disulfiram-like reaction concern,Avoid alcohol during therapy and appropriate interval.
+INT-010,Azithromycin,QT-prolonging drugs,Increased QT prolongation risk,Review ECG/QT risk.
+INT-011,Magnesium sulfate,Neuromuscular blockers,Potentiated neuromuscular blockade,Monitored setting.
+INT-012,Warfarin,Multiple medicines/foods,INR instability,Close INR monitoring.
+INT-013,ACE inhibitor/ARB,Potassium-raising drugs,Hyperkalaemia,Avoid/monitor; pregnancy exposure requires review.

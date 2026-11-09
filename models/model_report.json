@@ -1,0 +1,349 @@
+{
+  "preterm": {
+    "model": "Random Forest",
+    "thresholds": {
+      "moderate": 0.34063608760695524,
+      "high": 0.5076514615303117
+    },
+    "metrics": {
+      "visit_level_at_high": {
+        "threshold": 0.5076514615303117,
+        "accuracy": 0.8025545502927088,
+        "baseline_accuracy": 0.8328898350186269,
+        "balanced_accuracy": 0.605257320770843,
+        "f1": 0.3433628318584071,
+        "npv": 0.8667076167076168,
+        "roc_auc": 0.6816100608453227,
+        "pr_auc": 0.3335057759913943,
+        "brier": 0.14703171327541817,
+        "sensitivity": 0.3089171974522293,
+        "specificity": 0.9015974440894569,
+        "ppv": 0.38645418326693226,
+        "tp": 97,
+        "fp": 154,
+        "tn": 1411,
+        "fn": 217,
+        "prevalence": 0.16711016498137307
+      },
+      "visit_level_at_moderate": {
+        "threshold": 0.34063608760695524,
+        "accuracy": 0.7099521021820117,
+        "baseline_accuracy": 0.8328898350186269,
+        "balanced_accuracy": 0.6273112065281536,
+        "f1": 0.3670150987224158,
+        "npv": 0.8828828828828829,
+        "roc_auc": 0.6816100608453227,
+        "pr_auc": 0.3335057759913943,
+        "brier": 0.14703171327541817,
+        "sensitivity": 0.5031847133757962,
+        "specificity": 0.7514376996805112,
+        "ppv": 0.28884826325411334,
+        "tp": 158,
+        "fp": 389,
+        "tn": 1176,
+        "fn": 156,
+        "prevalence": 0.16711016498137307
+      },
+      "visit_level_balanced": {
+        "threshold": 0.24345123375357627,
+        "accuracy": 0.6311868014901544,
+        "baseline_accuracy": 0.8328898350186269,
+        "balanced_accuracy": 0.6551260658106266,
+        "f1": 0.38509316770186336,
+        "npv": 0.9090056285178236,
+        "roc_auc": 0.6816100608453227,
+        "pr_auc": 0.3335057759913943,
+        "brier": 0.14703171327541817,
+        "sensitivity": 0.6910828025477707,
+        "specificity": 0.6191693290734824,
+        "ppv": 0.26691266912669126,
+        "tp": 217,
+        "fp": 596,
+        "tn": 969,
+        "fn": 97,
+        "prevalence": 0.16711016498137307
+      },
+      "landmark": {
+        "threshold": 0.24345123375357627,
+        "accuracy": 0.63,
+        "baseline_accuracy": 0.825,
+        "balanced_accuracy": 0.6519480519480519,
+        "f1": 0.39344262295081966,
+        "npv": 0.9026548672566371,
+        "roc_auc": 0.6742857142857143,
+        "pr_auc": 0.3595870161263217,
+        "brier": 0.1495051394863194,
+        "sensitivity": 0.6857142857142857,
+        "specificity": 0.6181818181818182,
+        "ppv": 0.27586206896551724,
+        "tp": 24,
+        "fp": 63,
+        "tn": 102,
+        "fn": 11,
+        "prevalence": 0.175,
+        "ga": 28,
+        "n_pregnancies": 200
+      }
+    },
+    "comparison": {
+      "Logistic Regression": {
+        "roc_auc": 0.49787346614843,
+        "pr_auc": 0.19858379180055818
+      },
+      "Random Forest": {
+        "roc_auc": 0.6816100608453227,
+        "pr_auc": 0.3335057759913943
+      },
+      "Gradient Boosting": {
+        "roc_auc": 0.6266457744042653,
+        "pr_auc": 0.2743914368519535
+      }
+    },
+    "top_features": {
+      "High-risk visits so far": 0.03403675138886075,
+      "Previous pre-eclampsia": 0.031898007773549786,
+      "Maternal age": 0.01911031521540063,
+      "Pre-pregnancy BMI": 0.01796870230561054,
+      "Visit risk level": 0.016513705459799355,
+      "Gestational age now": 0.012836531613113267,
+      "Previous GDM": 0.007303473677784389,
+      "Multiple pregnancy (twins+)": 0.006977879978022572,
+      "Hb drop since first test": 0.006361286909098318,
+      "On low-dose aspirin": 0.005351946439836386,
+      "Systolic BP (this visit)": 0.005136240613744292,
+      "On antihypertensive": 0.004133005026352721
+    }
+  },
+  "nicu": {
+    "model": "Random Forest",
+    "thresholds": {
+      "moderate": 0.15836943170610368,
+      "high": 0.26659940958828904
+    },
+    "metrics": {
+      "visit_level_at_high": {
+        "threshold": 0.26659940958828904,
+        "accuracy": 0.865234375,
+        "baseline_accuracy": 0.93603515625,
+        "balanced_accuracy": 0.5866394294520303,
+        "f1": 0.2023121387283237,
+        "npv": 0.9476268412438625,
+        "roc_auc": 0.705507571866028,
+        "pr_auc": 0.12873877351894347,
+        "brier": 0.06721823487492182,
+        "sensitivity": 0.26717557251908397,
+        "specificity": 0.9061032863849765,
+        "ppv": 0.16279069767441862,
+        "tp": 35,
+        "fp": 180,
+        "tn": 1737,
+        "fn": 96,
+        "prevalence": 0.06396484375
+      },
+      "visit_level_at_moderate": {
+        "threshold": 0.15836943170610368,
+        "accuracy": 0.734375,
+        "baseline_accuracy": 0.93603515625,
+        "balanced_accuracy": 0.6269736029976865,
+        "f1": 0.1952662721893491,
+        "npv": 0.9567531603459747,
+        "roc_auc": 0.705507571866028,
+        "pr_auc": 0.12873877351894347,
+        "brier": 0.06721823487492182,
+        "sensitivity": 0.5038167938931297,
+        "specificity": 0.7501304121022431,
+        "ppv": 0.12110091743119267,
+        "tp": 66,
+        "fp": 479,
+        "tn": 1438,
+        "fn": 65,
+        "prevalence": 0.06396484375
+      },
+      "visit_level_balanced": {
+        "threshold": 0.1273252358065964,
+        "accuracy": 0.658203125,
+        "baseline_accuracy": 0.93603515625,
+        "balanced_accuracy": 0.6894081480685071,
+        "f1": 0.21348314606741572,
+        "npv": 0.9720713731574864,
+        "roc_auc": 0.705507571866028,
+        "pr_auc": 0.12873877351894347,
+        "brier": 0.06721823487492182,
+        "sensitivity": 0.7251908396946565,
+        "specificity": 0.6536254564423578,
+        "ppv": 0.1251646903820817,
+        "tp": 95,
+        "fp": 664,
+        "tn": 1253,
+        "fn": 36,
+        "prevalence": 0.06396484375
+      },
+      "landmark": {
+        "threshold": 0.1273252358065964,
+        "accuracy": 0.715,
+        "baseline_accuracy": 0.9299999999999999,
+        "balanced_accuracy": 0.7146697388632872,
+        "f1": 0.2597402597402597,
+        "npv": 0.9708029197080292,
+        "roc_auc": 0.7227342549923196,
+        "pr_auc": 0.20181991996711396,
+        "brier": 0.06977102858099737,
+        "sensitivity": 0.7142857142857143,
+        "specificity": 0.7150537634408602,
+        "ppv": 0.15873015873015872,
+        "tp": 10,
+        "fp": 53,
+        "tn": 133,
+        "fn": 4,
+        "prevalence": 0.07,
+        "ga": 28,
+        "n_pregnancies": 200
+      }
+    },
+    "comparison": {
+      "Logistic Regression": {
+        "roc_auc": 0.5491643670334134,
+        "pr_auc": 0.07130121679155457
+      },
+      "Random Forest": {
+        "roc_auc": 0.705507571866028,
+        "pr_auc": 0.12873877351894347
+      },
+      "Gradient Boosting": {
+        "roc_auc": 0.6654083392068555,
+        "pr_auc": 0.18077227428671383
+      }
+    },
+    "top_features": {
+      "Previous C-section": 0.07037076857526281,
+      "Maternal age": 0.030231715426855765,
+      "Pre-pregnancy BMI": 0.025520951550410786,
+      "Hb drop since first test": 0.02491169806512239,
+      "Abnormal lab results so far": 0.023326842593588082,
+      "Known haemoglobinopathy": 0.020595157032099354,
+      "Highest diastolic BP so far": 0.014088489091176992,
+      "Latest Hb": 0.012635041234116628,
+      "On low-dose aspirin": 0.010524555304686434,
+      "Weight gain since booking": 0.006908854882191173,
+      "Previous pre-eclampsia": 0.0059810374830264745,
+      "Lowest Hb so far": 0.004069653999768996
+    }
+  },
+  "gdm": {
+    "model": "Logistic Regression",
+    "thresholds": {
+      "moderate": 0.3767776489488349,
+      "high": 0.6924712191188868
+    },
+    "metrics": {
+      "visit_level_at_high": {
+        "threshold": 0.6924712191188868,
+        "accuracy": 0.819557625145518,
+        "baseline_accuracy": 0.7217694994179278,
+        "balanced_accuracy": 0.7554393305439331,
+        "f1": 0.6532438478747203,
+        "npv": 0.8571428571428571,
+        "roc_auc": 0.7650695100553381,
+        "pr_auc": 0.6316311431052956,
+        "brier": 0.17189509791943688,
+        "sensitivity": 0.6108786610878661,
+        "specificity": 0.9,
+        "ppv": 0.7019230769230769,
+        "tp": 146,
+        "fp": 62,
+        "tn": 558,
+        "fn": 93,
+        "prevalence": 0.27823050058207216
+      },
+      "visit_level_at_moderate": {
+        "threshold": 0.3767776489488349,
+        "accuracy": 0.7485448195576252,
+        "baseline_accuracy": 0.7217694994179278,
+        "balanced_accuracy": 0.7435281414495883,
+        "f1": 0.6183745583038869,
+        "npv": 0.8796992481203008,
+        "roc_auc": 0.7650695100553381,
+        "pr_auc": 0.6316311431052956,
+        "brier": 0.17189509791943688,
+        "sensitivity": 0.7322175732217573,
+        "specificity": 0.7548387096774194,
+        "ppv": 0.5351681957186545,
+        "tp": 175,
+        "fp": 152,
+        "tn": 468,
+        "fn": 64,
+        "prevalence": 0.27823050058207216
+      },
+      "visit_level_balanced": {
+        "threshold": 0.666558987663098,
+        "accuracy": 0.819557625145518,
+        "baseline_accuracy": 0.7217694994179278,
+        "balanced_accuracy": 0.7567249291402349,
+        "f1": 0.6547884187082406,
+        "npv": 0.8582434514637904,
+        "roc_auc": 0.7650695100553381,
+        "pr_auc": 0.6316311431052956,
+        "brier": 0.17189509791943688,
+        "sensitivity": 0.6150627615062761,
+        "specificity": 0.8983870967741936,
+        "ppv": 0.7,
+        "tp": 147,
+        "fp": 63,
+        "tn": 557,
+        "fn": 92,
+        "prevalence": 0.27823050058207216
+      },
+      "landmark": {
+        "threshold": 0.666558987663098,
+        "accuracy": 0.805,
+        "baseline_accuracy": 0.725,
+        "balanced_accuracy": 0.7413793103448276,
+        "f1": 0.6285714285714286,
+        "npv": 0.8533333333333334,
+        "roc_auc": 0.7484639498432601,
+        "pr_auc": 0.6142490996395981,
+        "brier": 0.18014189887343243,
+        "sensitivity": 0.6,
+        "specificity": 0.8827586206896552,
+        "ppv": 0.66,
+        "tp": 33,
+        "fp": 17,
+        "tn": 128,
+        "fn": 22,
+        "prevalence": 0.275,
+        "ga": 24,
+        "n_pregnancies": 200
+      }
+    },
+    "comparison": {
+      "Logistic Regression": {
+        "roc_auc": 0.7650695100553381,
+        "pr_auc": 0.6316311431052956
+      },
+      "Random Forest": {
+        "roc_auc": 0.7338439735456876,
+        "pr_auc": 0.6334698284512819
+      },
+      "Gradient Boosting": {
+        "roc_auc": 0.6998177891753273,
+        "pr_auc": 0.6128176692443223
+      }
+    },
+    "top_features": {
+      "Previous GDM": 0.24750303684707786,
+      "Pre-existing diabetes": 0.06526521797813456,
+      "On levothyroxine": 0.01116210014846808,
+      "Gravida (no. of pregnancies)": 0.01104062626535296,
+      "On antihypertensive": 0.01027804022135237,
+      "Referrals so far": 0.007605614792819404,
+      "Pre-existing hypertension": 0.005972465919827252,
+      "Proteinuria detected": 0.0055945471723579665,
+      "Previous preterm birth": 0.005425833445809158,
+      "Known haemoglobinopathy": 0.005284113915508093,
+      "Smoking (current/former)": 0.004548522067755245,
+      "On low-dose aspirin": 0.004447293831826182
+    }
+  },
+  "preterm_oracle_roc_auc": 0.6962770562770562,
+  "gdm_oracle_roc_auc": 0.8009404388714734
+}

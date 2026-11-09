@@ -1,0 +1,14 @@
+# Render Blueprint: New > Blueprint > pick this repo, or create a Web Service by hand
+# with the same build and start commands.
+services:
+  - type: web
+    name: nurture
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt && python train_models.py
+    startCommand: python server.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: NURTURE_WARM
+        value: "0"

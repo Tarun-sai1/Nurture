@@ -1,0 +1,10 @@
+﻿Allergen_ID,Allergen_Class,Foods_Commonly_Affected,Substitution_Principle
+ALG-001,Milk,Milk; curd; paneer,Use non-dairy calcium/protein alternatives where appropriate
+ALG-002,Egg,Egg,Use pulse/soy/dairy or other tolerated protein alternatives
+ALG-003,Peanut,Peanut,Use other tolerated nuts/seeds/legumes
+ALG-004,Tree nuts,Almond and other tree nuts,Use seeds or other tolerated protein/fat sources
+ALG-005,Soy,Soybean; soy foods,Use other pulses/dairy/egg/meat/fish according to diet pattern
+ALG-006,Fish,Fish,Use eggs/poultry/pulses/soy/dairy as permitted
+ALG-007,Wheat/Gluten,Wheat; atta; roti,Use rice/millets/potato and certified gluten-free products where clinically required
+ALG-008,Sesame,Sesame/tahini/til,Use other seeds/nuts if tolerated
+ALG-009,Other documented allergen,Patient-specific,Substitute based on nutrient target and clinician/dietitian assessment

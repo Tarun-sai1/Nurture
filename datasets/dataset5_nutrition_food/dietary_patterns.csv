@@ -1,0 +1,11 @@
+﻿Diet_Pattern_ID,Diet_Pattern,Definition,Inclusion_Rule,Vegan,Vegetarian,Eggs_Allowed,Jain_Flag,Clinical_Nutrition_Note
+DP-001,Omnivore / Non-vegetarian,"May include plant foods, dairy, eggs, fish and meat",Animal-source foods allowed,No,Yes,Yes,No,Ask about meat/fish/egg frequency; food safety remains essential
+DP-002,Vegetarian,Broad Indian vegetarian pattern; dairy and/or eggs depend on individual practice,No meat/fish; eggs may vary,No,Yes,Variable,Variable,Do not assume lacto-vegetarian versus ovo-vegetarian without asking
+DP-003,Lacto-vegetarian,"Plant foods + dairy; excludes eggs, meat and fish",Dairy permitted,No,Yes,No,No,"Pay attention to iron, B12 and protein adequacy"
+DP-004,Lacto-ovo vegetarian,Plant foods + dairy + eggs; excludes meat and fish,Dairy and eggs permitted,No,Yes,Yes,No,Often supports multiple protein sources
+DP-005,Ovo-vegetarian,"Plant foods + eggs; excludes dairy, meat and fish",Eggs permitted,No,Yes,Yes,No,Calcium/B12 sources need explicit assessment
+DP-006,Vegan,"Excludes meat, fish, eggs, dairy and other animal-derived foods",Plant-only pattern,Yes,Yes,No,No,"Explicit B12, calcium, iron, iodine, protein and vitamin D assessment is important"
+DP-007,Eggetarian,Vegetarian pattern that includes eggs; dairy may or may not be used,Eggs permitted; meat/fish excluded,No,Yes,Yes,Variable,Clarify dairy use rather than assuming
+DP-008,Jain-style vegetarian,Plant-based vegetarian pattern with additional exclusions varying by individual/community,"Typically excludes meat, fish, eggs; root vegetables may be excluded",No,Yes,No,Yes,Must be individualized; do not assume every Jain patient follows identical exclusions
+DP-009,Pescatarian,Plant foods + fish/seafood; no meat/poultry,Fish/seafood permitted,No,Variable,Yes,No,Ask about fish species and local food safety
+DP-010,Regional/traditional mixed diet,Diet defined by home/regional pattern rather than a standard label,Individual assessment required,Variable,Variable,Variable,Variable,Use food-level exclusions and preferences rather than label alone

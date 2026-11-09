@@ -1,0 +1,7 @@
+﻿Evidence_ID,Organization,Source_Title,Use_In_Dataset,Evidence_Grade,Reference_URL
+EV-001,ICMR-NIN,Indian Food Composition Tables 2017,Food composition reference for Indian foods,A,https://www.nin.res.in/ebooks/IFCT2017_16122024.pdf
+EV-002,WHO,Nutrition counselling during pregnancy,"Dietary diversity, energy/protein adequacy and nutrition counselling",B,https://www.who.int/tools/elena/interventions/nutrition-counselling-pregnancy
+EV-003,WHO,Daily iron and folic acid supplementation during pregnancy,Pregnancy iron/folic acid evidence and recommendations,B,https://www.who.int/tools/elena/interventions/daily-iron-pregnancy
+EV-004,WHO,Recommendations on antenatal care for a positive pregnancy experience,Comprehensive ANC nutrition recommendations,B,https://www.who.int/publications/i/item/9789241549912
+EV-005,WHO,Healthy diet,"Food-group diversity, whole grains, legumes, fruits, vegetables, nuts/seeds and limiting excess sodium/free sugars",B,https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+EV-006,ICMR-NIN,ICMR-NIN institutional food composition resources,Indian nutrient composition and food database context,A,https://www.nin.res.in/

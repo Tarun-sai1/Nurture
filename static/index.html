@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nurture · Maternal care</title>
+  <link rel="preload" href="/static/fonts/fraunces.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/static/fonts/figtree.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/static/app.css?v=4">
+  <link rel="preload" href="/api/meta" as="fetch" crossorigin>
+</head>
+<body>
+  <div class="bar-load" id="bar"></div>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="wordmark" href="#/">Nurture<i></i></a>
+      <nav class="nav" aria-label="Choose a view">
+        <a href="#/patient" data-nav="patient">For patients</a>
+        <a href="#/doctor" data-nav="doctor">For doctors</a>
+        <a href="#/dietician" data-nav="dietician">For dieticians</a>
+      </nav>
+      <span class="demo-note">Demo · synthetic data · not medical advice</span>
+    </div>
+  </header>
+  <main id="app" aria-live="polite"></main>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="/static/app.js?v=5"></script>
+</body>
+</html>

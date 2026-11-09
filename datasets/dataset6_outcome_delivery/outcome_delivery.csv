@@ -1,0 +1,201 @@
+﻿Outcome_ID,Patient_ID,Pregnancy_ID,Outcome_Date,Final_Gestational_Week,Final_Gestational_Days,Gestational_Category,Pregnancy_Outcome,Live_Birth,Delivery_Mode,Delivery_Indication,Hypertensive_Complication,Gestational_Diabetes_Outcome,Postpartum_Haemorrhage,Maternal_Transfusion,Maternal_ICU_HDU,Maternal_Discharge_Status,Postpartum_Follow_Up_Required,Dietary_Pattern_at_Final_Assessment,Nutrition_Risk_at_Final_Assessment,Dataset4_Uterotonic_Exposure_Flag,Dataset4_Tranexamic_Exposure_Flag
+OUTC-000001,P0001,PRG0001,2027-05-08,38,4,Early term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,Yes,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000002,P0002,PRG0002,2027-05-09,40,5,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000003,P0003,PRG0003,2026-03-22,40,4,Full term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000004,P0004,PRG0004,2027-05-04,38,3,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000005,P0005,PRG0005,2027-02-03,38,1,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000006,P0006,PRG0006,2027-02-10,38,0,Early term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000007,P0007,PRG0007,2025-12-26,40,6,Full term,Live birth,Yes,Caesarean section,Hypertensive disorder,No,No,No,No,Yes,Extended maternal observation,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000008,P0008,PRG0008,2026-09-14,40,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000009,P0009,PRG0009,2026-07-26,38,4,Early term,Live birth,Yes,Vaginal birth,Hypertensive disorder,Yes,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000010,P0010,PRG0010,2026-10-20,36,4,Preterm birth,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000011,P0011,PRG0011,2025-10-19,40,2,Full term,Live birth,Yes,Caesarean section,Malpresentation,No,No,No,No,No,Routine postpartum discharge,Yes,Vegan,Low,No,No
+OUTC-000012,P0012,PRG0012,2026-05-19,40,2,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000013,P0013,PRG0013,2027-05-24,38,3,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000014,P0014,PRG0014,2027-02-01,39,3,Full term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000015,P0015,PRG0015,2026-06-26,39,0,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000016,P0016,PRG0016,2027-04-02,40,5,Full term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000017,P0017,PRG0017,2026-03-30,40,3,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000018,P0018,PRG0018,2026-09-20,38,3,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000019,P0019,PRG0019,2026-06-05,38,3,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegan,Low,No,No
+OUTC-000020,P0020,PRG0020,2027-05-02,35,2,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000021,P0021,PRG0021,2027-05-09,38,1,Early term,Live birth,Yes,Caesarean section,Labour dystocia,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000022,P0022,PRG0022,2026-07-10,39,3,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000023,P0023,PRG0023,2027-02-24,35,5,Preterm birth,Live birth,Yes,Caesarean section,Hypertensive disorder,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,High,No,No
+OUTC-000024,P0024,PRG0024,2026-02-16,40,6,Full term,Live birth,Yes,Caesarean section,Malpresentation,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegan,Moderate,No,No
+OUTC-000025,P0025,PRG0025,2026-08-16,40,1,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000026,P0026,PRG0026,2026-01-01,40,2,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000027,P0027,PRG0027,2026-01-04,38,3,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000028,P0028,PRG0028,2026-02-19,39,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000029,P0029,PRG0029,2026-01-26,39,3,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000030,P0030,PRG0030,2027-03-26,39,3,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000031,P0031,PRG0031,2027-04-21,39,0,Full term,Live birth,Yes,Caesarean section,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000032,P0032,PRG0032,2027-05-15,40,5,Full term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000033,P0033,PRG0033,2026-02-19,40,3,Full term,Live birth,Yes,Caesarean section,Labour dystocia,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000034,P0034,PRG0034,2026-12-11,35,4,Preterm birth,Live birth,Yes,Caesarean section,Spontaneous preterm labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000035,P0035,PRG0035,2026-08-17,38,0,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000036,P0036,PRG0036,2027-03-21,39,1,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000037,P0037,PRG0037,2026-04-28,35,3,Preterm birth,Live birth,Yes,Caesarean section,Malpresentation,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000038,P0038,PRG0038,2027-02-25,35,6,Preterm birth,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,High,No,No
+OUTC-000039,P0039,PRG0039,2026-03-11,36,6,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000040,P0040,PRG0040,2026-12-05,40,5,Full term,Live birth,Yes,Caesarean section,Malpresentation,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000041,P0041,PRG0041,2026-12-18,36,6,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000042,P0042,PRG0042,2026-10-27,39,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegan,Moderate,No,No
+OUTC-000043,P0043,PRG0043,2026-07-11,38,1,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000044,P0044,PRG0044,2026-12-03,35,5,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000045,P0045,PRG0045,2026-11-24,39,6,Full term,Live birth,Yes,Caesarean section,Diabetes-related obstetric indication,No,Yes,Yes,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000046,P0046,PRG0046,2025-12-30,39,5,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,Yes,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000047,P0047,PRG0047,2026-04-17,38,2,Early term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000048,P0048,PRG0048,2026-08-16,39,1,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000049,P0049,PRG0049,2026-08-21,38,2,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000050,P0050,PRG0050,2026-05-02,35,6,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous preterm labour,No,Yes,Yes,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000051,P0051,PRG0051,2026-01-20,38,3,Early term,Live birth,Yes,Vaginal birth,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000052,P0052,PRG0052,2027-01-28,40,4,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000053,P0053,PRG0053,2025-10-17,38,4,Early term,Live birth,Yes,Assisted vaginal birth,Hypertensive disorder; Diabetes-related obstetric indication,No,Yes,Yes,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000054,P0054,PRG0054,2027-02-27,39,4,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,Yes,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000055,P0055,PRG0055,2026-02-08,38,6,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000056,P0056,PRG0056,2026-08-25,39,1,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegan,Low,No,No
+OUTC-000057,P0057,PRG0057,2027-04-29,39,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000058,P0058,PRG0058,2026-06-19,40,5,Full term,Live birth,Yes,Caesarean section,Labour dystocia,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000059,P0059,PRG0059,2026-10-25,38,6,Early term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000060,P0060,PRG0060,2025-11-22,38,5,Early term,Live birth,Yes,Assisted vaginal birth,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000061,P0061,PRG0061,2026-11-22,35,4,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000062,P0062,PRG0062,2026-08-29,40,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000063,P0063,PRG0063,2026-07-27,39,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000064,P0064,PRG0064,2027-02-12,38,3,Early term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000065,P0065,PRG0065,2026-04-29,39,1,Full term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000066,P0066,PRG0066,2026-12-17,38,6,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000067,P0067,PRG0067,2026-09-25,38,6,Early term,Live birth,Yes,Caesarean section,Hypertensive disorder,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,High,No,No
+OUTC-000068,P0068,PRG0068,2027-01-02,39,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000069,P0069,PRG0069,2026-12-12,38,4,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000070,P0070,PRG0070,2026-02-11,38,5,Early term,Live birth,Yes,Caesarean section,Previous caesarean / obstetric history,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000071,P0071,PRG0071,2027-01-29,38,4,Early term,Live birth,Yes,Caesarean section,Other obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000072,P0072,PRG0072,2025-11-29,38,4,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegan,Moderate,No,No
+OUTC-000073,P0073,PRG0073,2025-12-07,39,1,Full term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000074,P0074,PRG0074,2026-04-09,39,4,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000075,P0075,PRG0075,2025-12-29,39,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000076,P0076,PRG0076,2027-05-15,38,1,Early term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000077,P0077,PRG0077,2027-05-23,40,3,Full term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000078,P0078,PRG0078,2026-10-21,39,1,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,Yes,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000079,P0079,PRG0079,2025-11-08,40,2,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000080,P0080,PRG0080,2026-09-06,40,5,Full term,Live birth,Yes,Caesarean section,Malpresentation,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000081,P0081,PRG0081,2027-01-03,39,5,Full term,Live birth,Yes,Caesarean section,Hypertensive disorder,Yes,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000082,P0082,PRG0082,2025-09-18,36,1,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000083,P0083,PRG0083,2026-05-03,40,1,Full term,Live birth,Yes,Caesarean section,Hypertensive disorder,Yes,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,High,No,No
+OUTC-000084,P0084,PRG0084,2026-11-21,38,5,Early term,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000085,P0085,PRG0085,2026-02-10,40,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000086,P0086,PRG0086,2025-11-26,40,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000087,P0087,PRG0087,2026-01-06,40,1,Full term,Live birth,Yes,Assisted vaginal birth,Hypertensive disorder,Yes,No,No,No,No,Routine postpartum discharge,Yes,Vegan,Moderate,No,No
+OUTC-000088,P0088,PRG0088,2026-07-03,38,1,Early term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000089,P0089,PRG0089,2026-05-21,40,4,Full term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000090,P0090,PRG0090,2025-12-23,38,1,Early term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000091,P0091,PRG0091,2026-02-10,39,0,Full term,Live birth,Yes,Assisted vaginal birth,Hypertensive disorder,Yes,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000092,P0092,PRG0092,2026-08-20,32,3,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,Yes,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000093,P0093,PRG0093,2026-08-06,39,4,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,Yes,Yes,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000094,P0094,PRG0094,2027-02-14,40,2,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000095,P0095,PRG0095,2026-04-21,38,0,Early term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000096,P0096,PRG0096,2027-04-27,40,1,Full term,Live birth,Yes,Caesarean section,Previous caesarean / obstetric history,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000097,P0097,PRG0097,2027-01-06,40,1,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000098,P0098,PRG0098,2025-12-07,39,2,Full term,Live birth,Yes,Vaginal birth,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000099,P0099,PRG0099,2026-12-22,40,4,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000100,P0100,PRG0100,2027-02-08,39,2,Full term,Live birth,Yes,Caesarean section,Previous caesarean / obstetric history,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000101,P0101,PRG0101,2026-01-29,39,5,Full term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,Yes,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000102,P0102,PRG0102,2027-03-29,40,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000103,P0103,PRG0103,2026-12-20,38,2,Early term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000104,P0104,PRG0104,2026-01-25,36,6,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000105,P0105,PRG0105,2026-06-16,40,2,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000106,P0106,PRG0106,2026-04-19,38,4,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000107,P0107,PRG0107,2026-07-21,40,4,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000108,P0108,PRG0108,2026-02-23,39,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegan,Moderate,No,No
+OUTC-000109,P0109,PRG0109,2026-04-25,38,4,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000110,P0110,PRG0110,2027-01-27,36,2,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000111,P0111,PRG0111,2026-04-08,38,6,Early term,Live birth,Yes,Vaginal birth,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000112,P0112,PRG0112,2027-01-11,40,0,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000113,P0113,PRG0113,2026-11-09,39,2,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000114,P0114,PRG0114,2025-11-14,40,2,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000115,P0115,PRG0115,2026-12-24,39,2,Full term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000116,P0116,PRG0116,2025-12-05,38,0,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000117,P0117,PRG0117,2025-11-11,40,1,Full term,Live birth,Yes,Caesarean section,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000118,P0118,PRG0118,2026-08-09,38,2,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000119,P0119,PRG0119,2026-05-02,40,3,Full term,Live birth,Yes,Caesarean section,Previous caesarean / obstetric history,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000120,P0120,PRG0120,2025-10-19,39,4,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000121,P0121,PRG0121,2025-11-26,40,4,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000122,P0122,PRG0122,2026-06-14,40,4,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000123,P0123,PRG0123,2026-03-31,39,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000124,P0124,PRG0124,2026-07-31,40,1,Full term,Live birth,Yes,Caesarean section,Previous caesarean / obstetric history,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000125,P0125,PRG0125,2026-01-20,36,4,Preterm birth,Live birth,Yes,Vaginal birth,Hypertensive disorder; Diabetes-related obstetric indication,No,Yes,Yes,Yes,No,Extended maternal observation,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000126,P0126,PRG0126,2027-02-13,40,3,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,Yes,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000127,P0127,PRG0127,2027-04-17,40,3,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,Yes,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000128,P0128,PRG0128,2026-04-19,40,2,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000129,P0129,PRG0129,2026-11-27,35,6,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000130,P0130,PRG0130,2026-06-18,39,3,Full term,Live birth,Yes,Caesarean section,Hypertensive disorder,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000131,P0131,PRG0131,2026-08-31,38,5,Early term,Live birth,Yes,Caesarean section,Hypertensive disorder,Yes,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000132,P0132,PRG0132,2026-11-19,35,2,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,High,No,No
+OUTC-000133,P0133,PRG0133,2025-10-14,39,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000134,P0134,PRG0134,2026-05-23,35,6,Preterm birth,Live birth,Yes,Caesarean section,Malpresentation,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000135,P0135,PRG0135,2026-04-28,38,4,Early term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000136,P0136,PRG0136,2027-05-17,38,0,Early term,Live birth,Yes,Caesarean section,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000137,P0137,PRG0137,2027-01-25,35,2,Preterm birth,Live birth,Yes,Caesarean section,Labour dystocia,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000138,P0138,PRG0138,2027-05-20,38,3,Early term,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000139,P0139,PRG0139,2026-03-15,35,4,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000140,P0140,PRG0140,2026-05-02,38,4,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000141,P0141,PRG0141,2027-05-15,36,4,Preterm birth,Live birth,Yes,Caesarean section,Labour dystocia,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000142,P0142,PRG0142,2026-12-23,36,3,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous preterm labour; Diabetes-related obstetric indication,No,Yes,Yes,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000143,P0143,PRG0143,2027-01-28,40,4,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000144,P0144,PRG0144,2026-01-02,40,1,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000145,P0145,PRG0145,2026-10-26,40,3,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegan,Low,No,No
+OUTC-000146,P0146,PRG0146,2027-05-13,38,6,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000147,P0147,PRG0147,2025-11-13,35,6,Preterm birth,Live birth,Yes,Caesarean section,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000148,P0148,PRG0148,2027-06-07,40,4,Full term,Live birth,Yes,Caesarean section,Malpresentation,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000149,P0149,PRG0149,2026-01-29,40,2,Full term,Live birth,Yes,Caesarean section,Malpresentation,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000150,P0150,PRG0150,2026-03-08,34,4,Preterm birth,Live birth,Yes,Caesarean section,Hypertensive disorder,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000151,P0151,PRG0151,2026-06-11,39,0,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000152,P0152,PRG0152,2026-09-01,40,3,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,Yes,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000153,P0153,PRG0153,2027-03-14,32,3,Preterm birth,Live birth,Yes,Caesarean section,Malpresentation,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000154,P0154,PRG0154,2026-06-16,40,2,Full term,Live birth,Yes,Caesarean section,Non-reassuring fetal status,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000155,P0155,PRG0155,2026-03-15,38,2,Early term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000156,P0156,PRG0156,2025-12-22,38,3,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000157,P0157,PRG0157,2027-05-12,40,4,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,No,No,No,Yes,Extended maternal observation,Yes,Vegetarian,Moderate,No,No
+OUTC-000158,P0158,PRG0158,2026-01-10,38,2,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000159,P0159,PRG0159,2025-11-25,40,1,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,High,No,No
+OUTC-000160,P0160,PRG0160,2026-12-01,39,2,Full term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000161,P0161,PRG0161,2026-11-05,40,1,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000162,P0162,PRG0162,2026-09-01,38,4,Early term,Live birth,Yes,Vaginal birth,Hypertensive disorder,Yes,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000163,P0163,PRG0163,2025-11-20,38,4,Early term,Live birth,Yes,Caesarean section,Labour dystocia,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000164,P0164,PRG0164,2026-04-10,39,0,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000165,P0165,PRG0165,2025-12-26,35,5,Preterm birth,Live birth,Yes,Caesarean section,Previous caesarean / obstetric history,No,No,No,No,No,Routine postpartum discharge,Yes,Vegan,Low,No,No
+OUTC-000166,P0166,PRG0166,2026-09-14,34,6,Preterm birth,Live birth,Yes,Caesarean section,Labour dystocia,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000167,P0167,PRG0167,2026-09-15,38,6,Early term,Live birth,Yes,Caesarean section,Previous caesarean / obstetric history,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000168,P0168,PRG0168,2027-02-14,36,6,Preterm birth,Live birth,Yes,Caesarean section,Spontaneous preterm labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000169,P0169,PRG0169,2026-02-13,39,5,Full term,Live birth,Yes,Caesarean section,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000170,P0170,PRG0170,2027-04-28,40,1,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000171,P0171,PRG0171,2026-03-19,40,0,Full term,Live birth,Yes,Vaginal birth,Hypertensive disorder,Yes,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000172,P0172,PRG0172,2025-12-07,38,0,Early term,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000173,P0173,PRG0173,2026-01-03,34,4,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,High,No,No
+OUTC-000174,P0174,PRG0174,2025-11-21,38,5,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000175,P0175,PRG0175,2025-11-12,40,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegan,Moderate,No,No
+OUTC-000176,P0176,PRG0176,2025-12-05,39,0,Full term,Live birth,Yes,Caesarean section,Labour dystocia,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000177,P0177,PRG0177,2026-08-14,40,3,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000178,P0178,PRG0178,2026-01-13,40,3,Full term,Live birth,Yes,Caesarean section,Malpresentation,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000179,P0179,PRG0179,2025-09-19,34,4,Preterm birth,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000180,P0180,PRG0180,2026-01-20,39,1,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000181,P0181,PRG0181,2026-12-18,39,1,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000182,P0182,PRG0182,2026-02-24,39,4,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Moderate,No,No
+OUTC-000183,P0183,PRG0183,2026-03-26,40,4,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000184,P0184,PRG0184,2026-09-04,38,6,Early term,Live birth,Yes,Vaginal birth,Hypertensive disorder; Diabetes-related obstetric indication,Yes,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000185,P0185,PRG0185,2027-06-06,40,0,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000186,P0186,PRG0186,2027-06-08,40,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000187,P0187,PRG0187,2026-12-31,38,1,Early term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,Yes,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000188,P0188,PRG0188,2027-05-31,39,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000189,P0189,PRG0189,2026-05-16,34,3,Preterm birth,Live birth,Yes,Assisted vaginal birth,Prolonged/assisted second stage,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000190,P0190,PRG0190,2026-08-22,35,2,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Eggetarian,Low,No,No
+OUTC-000191,P0191,PRG0191,2027-02-18,40,1,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,Yes,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000192,P0192,PRG0192,2026-09-27,38,2,Early term,Live birth,Yes,Caesarean section,Labour dystocia,No,No,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Moderate,No,No
+OUTC-000193,P0193,PRG0193,2026-02-27,40,6,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000194,P0194,PRG0194,2026-05-20,40,2,Full term,Live birth,Yes,Assisted vaginal birth,Diabetes-related obstetric indication,No,Yes,No,No,No,Routine postpartum discharge,Yes,Vegetarian,Low,No,No
+OUTC-000195,P0195,PRG0195,2025-12-11,36,3,Preterm birth,Live birth,Yes,Vaginal birth,Spontaneous labour,Yes,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000196,P0196,PRG0196,2027-05-02,39,1,Full term,Live birth,Yes,Caesarean section,Other obstetric indication,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Low,No,No
+OUTC-000197,P0197,PRG0197,2027-03-19,40,5,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000198,P0198,PRG0198,2026-06-16,40,5,Full term,Live birth,Yes,Caesarean section,Previous caesarean / obstetric history,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000199,P0199,PRG0199,2027-01-10,40,3,Full term,Live birth,Yes,Vaginal birth,Spontaneous labour,No,No,No,No,No,Routine postpartum discharge,Yes,Omnivore / Non-vegetarian,Moderate,No,No
+OUTC-000200,P0200,PRG0200,2026-01-30,34,4,Preterm birth,Live birth,Yes,Caesarean section,Hypertensive disorder,Yes,No,Yes,Yes,No,Extended maternal observation,Yes,Vegetarian,High,No,No

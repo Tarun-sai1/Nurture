@@ -1,0 +1,18 @@
+﻿Outcome_Code,Outcome_Name,Outcome_Domain,Definition,Evidence_Grade
+OUT-001,Live birth,Birth outcome,Infant born with signs of life,A/B
+OUT-002,Stillbirth,Birth outcome,Fetal death before/at delivery according to applicable reporting definition,A/B
+OUT-003,Miscarriage,Pregnancy outcome,Pregnancy loss before the locally applicable gestational threshold,B
+OUT-004,Termination of pregnancy,Pregnancy outcome,Pregnancy ended by induced termination,A/B
+OUT-005,Preterm birth,Gestational outcome,Birth before 37 completed weeks,A/B
+OUT-006,Low birth weight,Neonatal outcome,Birth weight below 2500 g,A/B
+OUT-007,Very low birth weight,Neonatal outcome,Birth weight below 1500 g,A/B
+OUT-008,Small for gestational age,Neonatal outcome,Birth size below the selected gestational-age reference threshold,B
+OUT-009,Large for gestational age,Neonatal outcome,Birth size above the selected gestational-age reference threshold,B
+OUT-010,Postpartum haemorrhage,Maternal complication,Clinically significant postpartum bleeding; threshold depends on delivery context/definition,A/B
+OUT-011,Hypertensive complication,Maternal complication,Pre-eclampsia/eclampsia/gestational hypertension complication,A/B
+OUT-012,Gestational diabetes,Maternal complication,GDM affecting pregnancy and/or delivery management,A/B
+OUT-013,Maternal transfusion,Maternal complication,Blood component transfusion during pregnancy/delivery/postpartum episode,A/B
+OUT-014,Maternal ICU/HDU admission,Maternal complication,Higher-level maternal care during delivery episode,A/B
+OUT-015,Neonatal intensive care,Neonatal outcome,NICU admission for neonatal monitoring/treatment,A/B
+OUT-016,Neonatal resuscitation,Neonatal outcome,Resuscitative support at birth,A/B
+OUT-017,Congenital anomaly,Neonatal outcome,Documented congenital anomaly identified at/around delivery,A/B
